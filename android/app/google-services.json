@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806273773143",
+    "firebase_url": "https://sahapp-738a1.firebaseio.com",
+    "project_id": "sahapp-738a1",
+    "storage_bucket": "sahapp-738a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806273773143:android:31d862979683f9c640bd12",
+        "android_client_info": {
+          "package_name": "com.raghav.sah_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806273773143-6c92ki04n5n00nhfnj72vboh55vrmia7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloODM9CsuDZfc7NSsgmyWKlmnk5J5_K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806273773143-6c92ki04n5n00nhfnj72vboh55vrmia7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
